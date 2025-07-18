@@ -1,0 +1,18 @@
+{
+  "feature_layer": "avg_pool",
+  "feature_shape": [
+    84,
+    2048
+  ],
+  "num_images": 84,
+  "extraction_time": 1752836057.849083,
+  "categories": [
+    "european-wildcat",
+    "african-wildcat",
+    "domestic-cat",
+    "jungle-cat",
+    "blackfoot-cat",
+    "sand-cat",
+    "chinese-mountain-cat"
+  ]
+}
