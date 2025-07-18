@@ -1,0 +1,202 @@
+{
+  "cache_dir": "preprocessed_cache",
+  "target_size": [
+    224,
+    224
+  ],
+  "created_time": 1752828683.1465874,
+  "files": [
+    {
+      "original_path": "data/african-wildcat\\af (22).jpg",
+      "cache_path": "preprocessed_cache\\african-wildcat_af (22).jpg_224x224.npy",
+      "cat_type": "african-wildcat",
+      "filename": "af (22).jpg"
+    },
+    {
+      "original_path": "data/african-wildcat\\af (27).jpg",
+      "cache_path": "preprocessed_cache\\african-wildcat_af (27).jpg_224x224.npy",
+      "cat_type": "african-wildcat",
+      "filename": "af (27).jpg"
+    },
+    {
+      "original_path": "data/african-wildcat\\af (81).jpg",
+      "cache_path": "preprocessed_cache\\african-wildcat_af (81).jpg_224x224.npy",
+      "cat_type": "african-wildcat",
+      "filename": "af (81).jpg"
+    },
+    {
+      "original_path": "data/african-wildcat\\af (91).jpg",
+      "cache_path": "preprocessed_cache\\african-wildcat_af (91).jpg_224x224.npy",
+      "cat_type": "african-wildcat",
+      "filename": "af (91).jpg"
+    },
+    {
+      "original_path": "data/blackfoot-cat\\bc (15).jpg",
+      "cache_path": "preprocessed_cache\\blackfoot-cat_bc (15).jpg_224x224.npy",
+      "cat_type": "blackfoot-cat",
+      "filename": "bc (15).jpg"
+    },
+    {
+      "original_path": "data/blackfoot-cat\\bc (29).jpg",
+      "cache_path": "preprocessed_cache\\blackfoot-cat_bc (29).jpg_224x224.npy",
+      "cat_type": "blackfoot-cat",
+      "filename": "bc (29).jpg"
+    },
+    {
+      "original_path": "data/blackfoot-cat\\bc (34).jpg",
+      "cache_path": "preprocessed_cache\\blackfoot-cat_bc (34).jpg_224x224.npy",
+      "cat_type": "blackfoot-cat",
+      "filename": "bc (34).jpg"
+    },
+    {
+      "original_path": "data/blackfoot-cat\\bc (64).jpg",
+      "cache_path": "preprocessed_cache\\blackfoot-cat_bc (64).jpg_224x224.npy",
+      "cat_type": "blackfoot-cat",
+      "filename": "bc (64).jpg"
+    },
+    {
+      "original_path": "data/blackfoot-cat\\bc (68).jpg",
+      "cache_path": "preprocessed_cache\\blackfoot-cat_bc (68).jpg_224x224.npy",
+      "cat_type": "blackfoot-cat",
+      "filename": "bc (68).jpg"
+    },
+    {
+      "original_path": "data/chinese-mountain-cat\\ch (17).jpg",
+      "cache_path": "preprocessed_cache\\chinese-mountain-cat_ch (17).jpg_224x224.npy",
+      "cat_type": "chinese-mountain-cat",
+      "filename": "ch (17).jpg"
+    },
+    {
+      "original_path": "data/chinese-mountain-cat\\ch (5).jpg",
+      "cache_path": "preprocessed_cache\\chinese-mountain-cat_ch (5).jpg_224x224.npy",
+      "cat_type": "chinese-mountain-cat",
+      "filename": "ch (5).jpg"
+    },
+    {
+      "original_path": "data/domestic-cat\\dc (2).jpg",
+      "cache_path": "preprocessed_cache\\domestic-cat_dc (2).jpg_224x224.npy",
+      "cat_type": "domestic-cat",
+      "filename": "dc (2).jpg"
+    },
+    {
+      "original_path": "data/domestic-cat\\dc (20).jpg",
+      "cache_path": "preprocessed_cache\\domestic-cat_dc (20).jpg_224x224.npy",
+      "cat_type": "domestic-cat",
+      "filename": "dc (20).jpg"
+    },
+    {
+      "original_path": "data/domestic-cat\\dc (27).jpg",
+      "cache_path": "preprocessed_cache\\domestic-cat_dc (27).jpg_224x224.npy",
+      "cat_type": "domestic-cat",
+      "filename": "dc (27).jpg"
+    },
+    {
+      "original_path": "data/domestic-cat\\dc (44).jpg",
+      "cache_path": "preprocessed_cache\\domestic-cat_dc (44).jpg_224x224.npy",
+      "cat_type": "domestic-cat",
+      "filename": "dc (44).jpg"
+    },
+    {
+      "original_path": "data/domestic-cat\\dc (47).jpg",
+      "cache_path": "preprocessed_cache\\domestic-cat_dc (47).jpg_224x224.npy",
+      "cat_type": "domestic-cat",
+      "filename": "dc (47).jpg"
+    },
+    {
+      "original_path": "data/domestic-cat\\dc (57).jpg",
+      "cache_path": "preprocessed_cache\\domestic-cat_dc (57).jpg_224x224.npy",
+      "cat_type": "domestic-cat",
+      "filename": "dc (57).jpg"
+    },
+    {
+      "original_path": "data/domestic-cat\\dc (58).jpg",
+      "cache_path": "preprocessed_cache\\domestic-cat_dc (58).jpg_224x224.npy",
+      "cat_type": "domestic-cat",
+      "filename": "dc (58).jpg"
+    },
+    {
+      "original_path": "data/european-wildcat\\eu (31).jpg",
+      "cache_path": "preprocessed_cache\\european-wildcat_eu (31).jpg_224x224.npy",
+      "cat_type": "european-wildcat",
+      "filename": "eu (31).jpg"
+    },
+    {
+      "original_path": "data/european-wildcat\\eu (42).jpg",
+      "cache_path": "preprocessed_cache\\european-wildcat_eu (42).jpg_224x224.npy",
+      "cat_type": "european-wildcat",
+      "filename": "eu (42).jpg"
+    },
+    {
+      "original_path": "data/european-wildcat\\eu (48).jpg",
+      "cache_path": "preprocessed_cache\\european-wildcat_eu (48).jpg_224x224.npy",
+      "cat_type": "european-wildcat",
+      "filename": "eu (48).jpg"
+    },
+    {
+      "original_path": "data/european-wildcat\\eu (78).jpg",
+      "cache_path": "preprocessed_cache\\european-wildcat_eu (78).jpg_224x224.npy",
+      "cat_type": "european-wildcat",
+      "filename": "eu (78).jpg"
+    },
+    {
+      "original_path": "data/jungle-cat\\jg (10).jpg",
+      "cache_path": "preprocessed_cache\\jungle-cat_jg (10).jpg_224x224.npy",
+      "cat_type": "jungle-cat",
+      "filename": "jg (10).jpg"
+    },
+    {
+      "original_path": "data/jungle-cat\\jg (13).jpg",
+      "cache_path": "preprocessed_cache\\jungle-cat_jg (13).jpg_224x224.npy",
+      "cat_type": "jungle-cat",
+      "filename": "jg (13).jpg"
+    },
+    {
+      "original_path": "data/jungle-cat\\jg (16).jpg",
+      "cache_path": "preprocessed_cache\\jungle-cat_jg (16).jpg_224x224.npy",
+      "cat_type": "jungle-cat",
+      "filename": "jg (16).jpg"
+    },
+    {
+      "original_path": "data/jungle-cat\\jg (52).jpg",
+      "cache_path": "preprocessed_cache\\jungle-cat_jg (52).jpg_224x224.npy",
+      "cat_type": "jungle-cat",
+      "filename": "jg (52).jpg"
+    },
+    {
+      "original_path": "data/jungle-cat\\jg (83).jpg",
+      "cache_path": "preprocessed_cache\\jungle-cat_jg (83).jpg_224x224.npy",
+      "cat_type": "jungle-cat",
+      "filename": "jg (83).jpg"
+    },
+    {
+      "original_path": "data/sand-cat\\sd (23).jpg",
+      "cache_path": "preprocessed_cache\\sand-cat_sd (23).jpg_224x224.npy",
+      "cat_type": "sand-cat",
+      "filename": "sd (23).jpg"
+    },
+    {
+      "original_path": "data/sand-cat\\sd (53).jpg",
+      "cache_path": "preprocessed_cache\\sand-cat_sd (53).jpg_224x224.npy",
+      "cat_type": "sand-cat",
+      "filename": "sd (53).jpg"
+    },
+    {
+      "original_path": "data/sand-cat\\sd (63).jpg",
+      "cache_path": "preprocessed_cache\\sand-cat_sd (63).jpg_224x224.npy",
+      "cat_type": "sand-cat",
+      "filename": "sd (63).jpg"
+    },
+    {
+      "original_path": "data/sand-cat\\sd (69).jpg",
+      "cache_path": "preprocessed_cache\\sand-cat_sd (69).jpg_224x224.npy",
+      "cat_type": "sand-cat",
+      "filename": "sd (69).jpg"
+    },
+    {
+      "original_path": "data/sand-cat\\sd (70).jpg",
+      "cache_path": "preprocessed_cache\\sand-cat_sd (70).jpg_224x224.npy",
+      "cat_type": "sand-cat",
+      "filename": "sd (70).jpg"
+    }
+  ]
+}
