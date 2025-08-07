@@ -1,0 +1,47 @@
+{
+  "original_shape": [
+    2392,
+    29
+  ],
+  "processed_shape": [
+    2392,
+    32
+  ],
+  "id_columns_preserved": [
+    "PatientID"
+  ],
+  "target_column": "FamilyHistoryAsthma",
+  "numerical_features_scaled": [
+    "Age",
+    "BMI",
+    "PhysicalActivity",
+    "DietQuality",
+    "SleepQuality",
+    "PollutionExposure",
+    "PollenExposure",
+    "DustExposure",
+    "LungFunctionFEV1",
+    "LungFunctionFVC"
+  ],
+  "categorical_features_encoded": [
+    "Gender",
+    "Ethnicity",
+    "EducationLevel",
+    "Smoking",
+    "PetAllergy",
+    "HistoryOfAllergies",
+    "Eczema",
+    "HayFever",
+    "GastroesophagealReflux",
+    "Wheezing",
+    "ShortnessOfBreath",
+    "ChestTightness",
+    "Coughing",
+    "NighttimeSymptoms",
+    "ExerciseInduced",
+    "Diagnosis",
+    "DoctorInCharge"
+  ],
+  "missing_values_filled": {},
+  "duplicates_removed": "0"
+}
